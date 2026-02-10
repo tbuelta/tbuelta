@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Frontend developer and UI designer based in Madrid, Spain 🇪🇸📍</p>
+<p align="left">Frontend developer with creative background based in Madrid, Spain 🇪🇸📍</p>
 
 ###
 
@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">✨ +3 years as web developer<br>🎨 7 years as designer<br>🖼️ Bachelor degree in fine arts<br><br>I'm passionate about arts and technology. Pursuing my carrer to become Frontend Developer.<br><br>📚 Currently learning Astro</p>
+<p align="left">I'm a frontend developer with a creative background in art and design. I develop interactive web interfaces with a strong focus on detail, visual fidelity, and user experience, approaching code as an extension of design.</p>
+<p>With a solid technical foundation, I continue to expand my frontend skills and am interested in modern projects where I can both contribute and learn.</p>
+<p align="left">Currently learning Astro</p>
 
 ###
 
