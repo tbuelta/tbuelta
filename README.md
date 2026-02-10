@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/14499180/file/original-1cb922e095def46fa3c2a6d7054a166a.png?resize=1024x341&vertical=center"  />
+  <img src="https://github.com/tbuelta/tbuelta/blob/main/hero-profile-tamar.png"  />
 </div>
 
 ###
